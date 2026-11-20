@@ -1,4 +1,4 @@
-# Titulo Piola - por aca tambien hago cambios a ver que pasa
+# Titulo Piola - Probando por segunda vez como sincronizar trabajos con el profe
 aprendiendo gitHub 
 un slash para titulo
 dos slash para descripcion
